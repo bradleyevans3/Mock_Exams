@@ -17,9 +17,7 @@ int power(int x, int y) {
 
 
 int main() {
-	printf("\n");
-	printf("%d\n", power(3,4));
-	printf("\n");
+	printf("\n%d\n\n", power(3,4));
 	return 0;
 }
 
